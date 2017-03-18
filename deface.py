@@ -10,6 +10,9 @@ print '*                                 UNKNOWN TEAM                           
 print '*                                                                             *'
 print '*                                AND TEAM secures                             *'
 print '*                                                                             *'
+print '*                                                                             *'
+print '*                             www.Github.Com/Goblinor                           *'
+print '*                                                                             *'
 print '*==*==*==*==*==*==*==*==*==*==*[telegram:R3K1NG]*==*==*==*==*==*==*==*==*==*==*'
 
 
