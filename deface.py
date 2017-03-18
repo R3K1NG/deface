@@ -8,10 +8,10 @@ print '*                              Special thanks TO:                        
 print '*                                                                             *'
 print '*                                 UNKNOWN TEAM                                *'
 print '*                                                                             *'
-print '*                                AND TEAM secures                             *'
+print '*                               AND TEAM securesec                            *'
 print '*                                                                             *'
 print '*                                                                             *'
-print '*                             www.Github.Com/Goblinor                           *'
+print '*                             www.Github.Com/Goblinor                         *'
 print '*                                                                             *'
 print '*==*==*==*==*==*==*==*==*==*==*[telegram:R3K1NG]*==*==*==*==*==*==*==*==*==*==*'
 
